@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "candidatemanagementsystem",
+    "packageName": "io.vamani.candidate.application",
+    "packageFolder": "io/vamani/candidate/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "ZTQ4NDAyNmIyNzU2NmE0NjdmY2M2OWM4YjZmOGViNGI3YmQzYjg2ODlhNDVhYWNiMTUyZjlhYzNhYjJmNTUwNDgzYWY5NTVhNjhmNDMwZDc0MmZmZjkwYzFkYWIwMmY2NDViZDhlNzcwMmIyZjI2ZTVkOThhZWY3MjRiZGU0OTk=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "vivekkrjaiswal",
+  "repository-name": "candidate-management-system"
+}
